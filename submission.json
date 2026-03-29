@@ -1,0 +1,7 @@
+{
+  "prompt": "Extreme aerial top-down view of a vast frozen Arctic ocean. The left 60% of the frame is solid cracked white sea ice, ancient and textured. The right 40% is open dark ocean water, black and cold. The boundary between ice and water is jagged and crumbling diagonally across the frame. One tiny human silhouette stands at the fracture line at the ice edge looking into the dark water. No land, no sky, no horizon — only ice and ocean filling the entire frame. Desaturated, documentary drone photography style, raw, not commercial. No text, no labels, no charts, no infographic elements, single frame.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "NSIDC Arctic Sea Ice News and Analysis",
+  "dataset_url": "https://nsidc.org/arcticseaicenews/",
+  "insight": "Arctic summer sea ice extent has declined by approximately 40% since satellite records began in 1979, representing an area larger than India permanently lost to open ocean."
+}
