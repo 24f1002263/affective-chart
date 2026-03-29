@@ -2,5 +2,5 @@
   "prompt": "Extreme aerial top-down view of a vast river delta, filling the entire frame with no sky or horizon visible. Dozens of river channels of varying widths branch and split across the frame — small streams feed into medium channels, medium channels feed into larger ones, larger ones into even wider channels, and the widest channels flow toward the frame edge into something still larger beyond view. Every channel, no matter its size, connects to something more connected than itself. The branching is fractal and endless — no single node feels like the centre. Water is dark reflective blue-black. The land between channels is pale sand or dry earth. Shot from directly above, satellite or drone perspective. Hyper-realistic, desaturated, documentary. No text, no labels, no annotations, no charts, single frame only.",
   "model": "DALL-E 3 via ChatGPT",
   "paradox": "The Friendship Paradox",
-  "visual_logic": "A river delta where every channel feeds into something larger beyond the frame — every node connects to neighbours with greater connectivity than itself, with no centre and no most-connected point visible."
+"visual_logic": "A river delta where every channel feeds into something larger beyond the frame — every node connects to neighbours with greater connectivity than itself, with no centre and no most-connected point visible."
 }
