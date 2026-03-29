@@ -1,0 +1,6 @@
+{
+  "prompt": "Extreme aerial top-down drone photograph of a massive crowd of thousands of people densely packed in a large city square or plaza. Every single person is wearing grey or dark clothing — the entire crowd is a sea of grey. Hidden within the crowd, exactly 4 people are wearing bright vivid red clothing — they are scattered in different parts of the crowd, nearly swallowed by the grey mass around them, easy to miss at first glance. Shot from directly above. The red figures are the only color in the entire frame. Hyper-realistic drone photography, sharp detail, natural daylight. No text, no labels, no annotations, no overlays, no charts, single frame only.",
+  "model": "DALL-E 3 via ChatGPT",
+  "concept": "class imbalance",
+  "metaphor": "Thousands in grey fill a plaza; four people in red are lost within the mass, representing how minority class samples vanish inside an imbalance-dominated dataset."
+}
